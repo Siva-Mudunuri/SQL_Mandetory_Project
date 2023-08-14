@@ -1,4 +1,4 @@
-ode-- SQL Mandatory Project
+-- code-- SQL Mandatory Project
 
 -- Create Database grosvenor  -- To create Database
 
