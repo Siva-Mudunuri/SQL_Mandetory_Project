@@ -7,13 +7,8 @@
 
 -- create a table named hotel
 
-create table hotel(hotel_no char(10) primary key,
-
- name varchar(20),
-
- address varchar(20)
-
- )engine=innodb;
+create table hotel(hotel_no char(10) primary key,name varchar(20),address varchar(20))
+engine=innodb;
 
 -- insert values into hotel table
 
